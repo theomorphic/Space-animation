@@ -4,7 +4,10 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
     "cra-template": "1.2.0",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.7",
     "react-bootstrap-icons": "^1.11.5",

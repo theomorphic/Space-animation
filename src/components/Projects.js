@@ -44,7 +44,7 @@ export const Projects = () => {
 
   return (
     <section className="project" id="projects">
-      {/* <Container>
+      <Container>
         <Row>
           <Col size={12}>
             <TrackVisibility>
@@ -91,7 +91,7 @@ export const Projects = () => {
             </TrackVisibility>
           </Col>
         </Row>
-      </Container> */}
+      </Container> 
       <img className="background-image-right" src={colorSharp2}></img>
     </section>
   )
